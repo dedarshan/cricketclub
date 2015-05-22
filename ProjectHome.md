@@ -1,0 +1,1 @@
+These libraries provide functionality to create a cricket club website. Object abstractions of matches, players, teams etc complete with stats functions to derive averages and other figures from the core score card data. Further functionality for News, Chat, Accounting and FantasyFives is contained separate modules.
